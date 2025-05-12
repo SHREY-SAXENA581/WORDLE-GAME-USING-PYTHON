@@ -109,7 +109,6 @@ fancy
 globe
 hover
 ideal
-jump
 match
 orbit
 place
